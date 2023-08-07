@@ -7,6 +7,7 @@ There are many machine learning concepts that we use daily in our neural network
 * Tf-idf
 * Word embeddings
 * Positional Encoding
+* Ordinal Encoding
 * PCA
 * KNN
   - An interesting use case where we want to do image classification using KNN but no library
