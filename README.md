@@ -147,5 +147,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - Implement mutual information or chi-square test to rank features based on their importance.
    - How would you manually implement Recursive Feature Elimination (RFE)?
 
+29. **Linear Models**:
+   - Can you implement stochastic gradient descent (SGD) for training linear models?
+   - How would you manually code Ridge and Lasso regression?
 
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
