@@ -155,4 +155,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - Implement a function to compute the Gini impurity or entropy of a dataset.
    - Can you write a random forest algorithm without using the decision tree as a black-box?
 
+31. **Neural Network Models**:
+   - Can you manually code the forward and backward pass of a simple neural network?
+   - How would you implement various activation functions like ReLU, Sigmoid, and Tanh?
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
