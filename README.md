@@ -151,4 +151,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - Can you implement stochastic gradient descent (SGD) for training linear models?
    - How would you manually code Ridge and Lasso regression?
 
+30. **Tree-based Models**:
+   - Implement a function to compute the Gini impurity or entropy of a dataset.
+   - Can you write a random forest algorithm without using the decision tree as a black-box?
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
