@@ -163,4 +163,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - How would you solve the quadratic programming problem inherent to SVMs?
    - Implement the soft-margin SVM conceptually.
 
+33. **Clustering**:
+   - Can you implement the Mean Shift clustering algorithm?
+   - How would you compute the silhouette score of a cluster?
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
