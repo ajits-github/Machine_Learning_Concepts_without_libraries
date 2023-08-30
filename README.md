@@ -167,4 +167,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - Can you implement the Mean Shift clustering algorithm?
    - How would you compute the silhouette score of a cluster?
 
+34. **Manifold Learning**:
+   - How would you implement the Locally Linear Embedding (LLE) algorithm?
+   - Can you code the Isomap algorithm for dimensionality reduction?
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
