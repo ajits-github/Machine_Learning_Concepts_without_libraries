@@ -175,4 +175,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - How would you calculate various metrics like precision, recall, and F1 score without using libraries?
    - Implement stratified k-fold cross-validation.
 
+36. **Bayesian Methods**:
+   - How would you code Gaussian Processes for regression problems?
+   - Implement a naive Bayes classifier for multinomial datasets.
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
