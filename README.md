@@ -19,6 +19,7 @@ There are many machine learning concepts that we use daily in our neural network
   - SVM with weighted samples
 * SVM with Gaussian kernel, using simple NumPy
 * Decision Trees
+* Dropout
 * Linear discriminant analysis
 * Image geometric transformations
 * L1/L2 regularization
