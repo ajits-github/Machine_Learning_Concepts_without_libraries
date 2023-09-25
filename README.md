@@ -180,4 +180,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - How would you code Gaussian Processes for regression problems?
    - Implement a naive Bayes classifier for multinomial datasets.
 
+37. **Ensemble Methods**:
+   - Can you write code for the gradient boosting algorithm without relying on decision trees as a black-box?
+   - How would you implement stacking of multiple classifiers?
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
