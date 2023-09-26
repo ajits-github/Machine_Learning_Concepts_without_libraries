@@ -188,4 +188,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - Implement the concept behind the OneClassSVM for anomaly detection.
    - How would you manually compute the isolation score used in the Isolation Forest method?
 
+39. **Pipeline and Utilities**:
+   - How would you design a machine learning pipeline that sequences preprocessing, feature selection, and modeling?
+   - Implement a grid search method for hyperparameter tuning without using Scikit-learn's `GridSearchCV`.
+
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
