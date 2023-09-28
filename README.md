@@ -192,4 +192,8 @@ Building machine learning algorithms from scratch is a valuable exercise that de
    - How would you design a machine learning pipeline that sequences preprocessing, feature selection, and modeling?
    - Implement a grid search method for hyperparameter tuning without using Scikit-learn's `GridSearchCV`.
 
+40. **Nearest Neighbors**:
+   - Implement a KD-Tree or Ball Tree to optimize nearest neighbor searches.
+   - How would you code the Nearest Centroid classifier?
+     
 Remember, when implementing these from scratch, you won't have the optimizations provided by libraries like Scikit-learn or TensorFlow, so they might not be as efficient. However, the knowledge gained from this exercise is immensely valuable. Always compare the results of your custom implementations with established libraries to ensure correctness!
