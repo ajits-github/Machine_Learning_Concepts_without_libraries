@@ -26,6 +26,8 @@ There are many machine learning concepts that we use daily in our neural network
 * Feature Selection (No RFE from scikit-learn or PCA)
 * A predictive modeling without the use of the gradient descent algorithm for backpropagation
 * Isolation Forest without and with using PyTorch & PyOD
+* Naive Bayes
+* Perceptron
 
 Building machine learning algorithms from scratch is a valuable exercise that deepens understanding and hones programming skills. If you're looking to implement various ML concepts in pure Python, here are some questions or challenges you might consider:
 1. **Foundational Algorithms**:
