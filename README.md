@@ -28,6 +28,8 @@ There are many machine learning concepts that we use daily in our neural network
 * Isolation Forest without and with using PyTorch & PyOD
 * Naive Bayes
 * Perceptron
+* Adaline
+* Hierarchical Clustering
 
 Building machine learning algorithms from scratch is a valuable exercise that deepens understanding and hones programming skills. If you're looking to implement various ML concepts in pure Python, here are some questions or challenges you might consider:
 1. **Foundational Algorithms**:
